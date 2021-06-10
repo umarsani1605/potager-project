@@ -6,7 +6,7 @@ We apologize to the Bangkit 2021 team, there are some accidentally technical iss
 
 Yesterday, we have push all the files and source code to the repository before 23.59. We have checked it right, the Github has been updated. But, in the morning we checked the repository and all the commits pushed last night are gone. We can't identify the real cause, because the commit logs is also gone. We have thought, maybe one of us acciddentaly reset the repository to the early commit.
 
-So we decided to push all files again, because we thought our work will be needed by Bangkit team in assessing and checking our source code. 
+So we decided to push all files again, because we thought our work will be needed by Bangkit team in assessing and checking our project. 
 Again, we apologize for updating the repository after the capstone project deadline.
 
 ## Android Development
